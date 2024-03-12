@@ -1,2 +1,2 @@
-# emmaguyer.com
+# emmaguyer.github.io
 emma
