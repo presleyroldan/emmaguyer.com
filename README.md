@@ -1,2 +1,2 @@
 # emmaguyer.github.io
-emma
+emma's interests include living on a farm and birds 
