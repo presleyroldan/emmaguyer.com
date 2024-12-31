@@ -1,7 +1,5 @@
 # Phoebe's Special Menu
 
-# Special Dietary Menu
-
 ## Starters
 - **PERCY POTATOES†**  
   *crispy coal roasted, pickled shallot aioli, black garlic, fresh herbs*
