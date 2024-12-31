@@ -2,38 +2,30 @@ menu:
   starters:
     - name: "PERCY POTATOES†"
       description: "crispy coal roasted, pickled shallot aioli, black garlic, fresh herbs"
-      price: 11
     - name: "CRISPY CAULIFLOWER"
       description: "parsnip tahini, italian chili crisp, pickled carrot"
-      price: 11
     - name: "SEASONAL VEGGIE"
       description: "best in season produce"
-      price: "A/Q"
 
   sides:
     - name: "SEASONED FRIES†"
       description: ""
-      price: 8
     - name: "LITTLE HOUSE SALAD"
       description: ""
-      price: 7
     - name: "MISO SWEET POTATOES"
       description: ""
-      price: 8
 
   entrees:
     - name: "FORBIDDEN RICE BOWL"
       description: "emperor’s black rice, seasonal veg, sweet chili vinaigrette"
-      price: 19
     - name: "GRILLED BRANZINO"
       description: "smoked cauliflower & almond puree, swiss chard pesto, crispy brussels, pickled grapes"
-      price: 33
     - name: "SEARED SALMON*"
       description: "toasted farro, mushroom consommé, charred broccolini"
-      price: 33
-
-  desserts:
-    - name: "CHOCOLATE CAKE"
-      description: "chocolate mousse, chocolate cream cheese frosting, raspberry coulis"
-      price: 14
+    - name: "SKIRT STEAK*"
+      description: "certified angus, lizzy’s backyard marinade, cheesy green chili rice"
+      note: "Request no butter"
+    - name: "STEAK FRITES*"
+      description: "10oz new york strip, au poivre butter, seasoned fries†"
+      note: "Request no butter"
 
