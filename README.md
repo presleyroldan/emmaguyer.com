@@ -47,9 +47,6 @@
 - **SHORT RIB**  
   *coffee-chili rubbed, mashed potato, baby carrots*  
   *Note: Request no butter*
-
-- **SOURDOUGH PAPPARDELLE**  
-  *short rib bolognese, burrata, calabrian chili oil*  
   *Note: Request no butter and no burrata*
 
 - **BRAISED PORK SHANK**  
