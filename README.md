@@ -1,4 +1,2 @@
-# emmaguyer.github.io
-emma's interests include living on a farm and birds      
+# phoebebowes.github.io
 
-she is very nice you should meet her
